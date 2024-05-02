@@ -21,20 +21,19 @@ This website provides a user interface for browsing and purchasing products onli
 - Easy to customize: The website layout and styles are built using HTML and CSS, making it easy to customize and extend.
 
 ## Screenshots
-
-![Home Page](Screenshot (1).png)
+![Home Page](Screenshot%20(1).png)
 *Home Page*
 
-![Products Page](Screenshot (5).png)
+![Products Page](Screenshot%20(5).png)
 *Products Page*
 
-![Product Details Page](Screenshot (4).png)
+![Product Details Page](Screenshot%20(4).png)
 *Product Details Page*
 
-![Cart Page](Screenshot (3).png)
+![Cart Page](Screenshot%20(3).png)
 *Cart Page*
 
-![Account Page](Screenshot (2).png)
+![Account Page](Screenshot%20(2).png)
 *Account Page*
 
 ## How to Use
